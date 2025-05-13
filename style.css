@@ -1,0 +1,91 @@
+.div{
+    width: 650px;
+    height: 175px;
+    background-color:antiquewhite;
+    margin: 65px;
+    padding: 75px;
+    border: 7px solid burlywood;
+}
+
+.main{
+    margin-top: 150px;
+}
+#navbar{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    background-color: #333;
+}
+#navbar li a {
+    display: block;
+    padding: 14px 20px;
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+}
+#navbar li a:hover {
+    background-color: #575757;
+}
+#navbar li a.active {
+    background-color: blue;
+}
+.text{
+    font-weight: 400;
+    font-style: initial;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 75px;
+    margin-left: 5%;
+}
+.header{
+    justify-content: space-between;
+    display: flex;
+}
+.sentence2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    margin-right: 15px;
+
+}
+.second{
+    justify-content: flex-end;
+    display: flex;
+    margin: 10px;
+
+}
+.sentence1 a{
+    text-decoration: none;
+    color: blue;
+}
+.sentence1 a:hover{
+    color: rgb(141, 24, 24);
+}
+.footer{
+    justify-content: space-between;
+    text-align: center;
+    background-color: beige;
+}
+.main .div a{
+    color:black;
+    text-decoration: none;
+}
+.main div a:hover{
+    color:gray;
+    background-color: aliceblue;
+}
+
+.main .section{
+    width: 850px;
+    height: 600px;
+    background-color:whitesmoke;
+    border: 2px solid gray;
+    padding-left: 30px;
+    margin: 65px;
+    padding: 75px;
+}
+#sourceFooter{
+    margin-bottom: 0px;
+    margin-top: 500px;
+}
+
