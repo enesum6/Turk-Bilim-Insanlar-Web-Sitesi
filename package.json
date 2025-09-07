@@ -1,0 +1,12 @@
+{
+  "name": "turk-bilim-insanlar-web-sitesi",
+  "version": "1.0.0",
+  "description": "Türk Bilim İnsanları Web Sitesi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
